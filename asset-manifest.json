@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tictactoe/static/css/main.9c5c5444.css",
+    "main.js": "/tictactoe/static/js/main.826081c3.js",
+    "index.html": "/tictactoe/index.html",
+    "main.9c5c5444.css.map": "/tictactoe/static/css/main.9c5c5444.css.map",
+    "main.826081c3.js.map": "/tictactoe/static/js/main.826081c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c5c5444.css",
+    "static/js/main.826081c3.js"
+  ]
+}
